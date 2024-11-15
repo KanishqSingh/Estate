@@ -1,0 +1,10 @@
+div{
+  background-color: cadetblue;
+  font-size: 20px;
+  font-weight: 100;
+  color: darkcyan;
+  padding-left: 120px;
+  padding-right: 120px;
+  justify-content: space-between;
+  
+}
